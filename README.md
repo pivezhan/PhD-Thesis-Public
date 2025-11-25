@@ -81,6 +81,6 @@ The PDF documents are provided for academic reference. For source code and data 
 
 ## Contact
 
-- **Email:** mpivezhandi@miners.utep.edu
+- **Email:** pivezhandi@wayne.edu
 - **Advisor:** Dr. Abusayeed Saifullah
 - **Committee:** Dr. Ali Jannesari, Dr. Prashant Modekurthy, Dr. Zheng Dong

@@ -10,6 +10,10 @@
 
 This repository contains the compiled PDF of my PhD dissertation on data-efficient AI-guided scheduling for heterogeneous multicore embedded systems. The dissertation presents a comprehensive framework integrating hierarchical multi-agent reinforcement learning, statistical learning, distribution-aware flow matching, model-based reinforcement learning, and graph neural network-driven performance modeling.
 
+## Download
+
+**[Download Dissertation PDF](outputs/thesis.pdf)** (238 pages)
+
 ## Key Contributions
 
 | Contribution | Result |
@@ -17,7 +21,7 @@ This repository contains the compiled PDF of my PhD dissertation on data-efficie
 | HiDVFS (Hierarchical MARL) | 31.7% energy reduction, 34.1% makespan improvement |
 | Statistical Feature Selection | 10% energy reduction, 5°C temperature decrease |
 | ZeroDVFS (Model-based MARL) | 7x thermal prediction improvement, zero-shot transfer |
-| Flow Matching Data Augmentation | 30% frame rate improvement in few-shot RL |
+| FlowRL (Flow Matching) | 30% frame rate improvement in few-shot RL |
 | GraphPerf-RT (GNN Performance Model) | Automated code variation selection |
 
 ## Dissertation Structure
@@ -32,10 +36,6 @@ This repository contains the compiled PDF of my PhD dissertation on data-efficie
 | 6 | GraphPerf-RT | Graph neural network-driven performance modeling |
 | 7 | Conclusion | Summary of contributions and future directions |
 
-## Download
-
-**[Download Dissertation PDF](outputs/thesis.pdf)** (203 pages)
-
 ## Related Research Projects
 
 | # | Project | Description |
@@ -44,11 +44,13 @@ This repository contains the compiled PDF of my PhD dissertation on data-efficie
 | 2 | [02-FeatureEvaluation](https://github.com/pivezhan/02-FeatureEvaluation) | Statistical Learning for Task-to-Core Allocation |
 | 3 | [03-ZeroDVFS](https://github.com/pivezhan/03-ZeroDVFS) | Model-based Policy Learning for Scheduling |
 | 4 | [04-FlowRL](https://github.com/pivezhan/04-FlowRL) | Distribution-Aware Flow Matching for Few-shot RL |
-| 5 | [05-llm-based-profiler](https://github.com/pivezhan/05-llm-based-profiler) | Graph-Driven Performance Modeling |
+| 5 | [05-GraphPerf-RT](https://github.com/pivezhan/05-llm-based-profiler) | Graph-Driven Performance Modeling |
 
 ## Platforms Validated
 
 - NVIDIA Jetson TX2
+- NVIDIA Jetson Orin NX
+- Rubik Pi
 - Intel Core i7 (8th and 12th Gen)
 - Intel Xeon 2680 v3
 
@@ -93,8 +95,8 @@ The PDF document is provided for academic reference. For source code and data ac
 
 - **Email:** pivezhandi@wayne.edu
 - **Advisor:** Dr. Abusayeed Saifullah
-- **Committee:** Dr. Ali Jannesari, Dr. Prashant Modekurthy, Dr. Zheng Dong
+- **Committee:** Dr. Ali Jannesari, Dr. Zheng Dong, Dr. Nathan Fisher
 
 ---
 
-*Last updated: November 2025*
+*Last updated: December 2025*

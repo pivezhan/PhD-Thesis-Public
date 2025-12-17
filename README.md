@@ -56,7 +56,8 @@ This repository contains the compiled PDF of my PhD dissertation on data-efficie
 
 ## Benchmarks
 
-BOTS (Barcelona OpenMP Task Suite): FFT, Strassen, N-Queens, Sort, SparseLU, Floorplan, Health, UTS, Alignment, Knapsack
+- **BOTS** (Barcelona OpenMP Task Suite): FFT, Strassen, N-Queens, Sort, SparseLU, Floorplan, Health, UTS, Alignment, Knapsack, Fib, Concom
+- **PolyBench/C**: 30 kernels across linear algebra, stencils, medley, and datamining categories
 
 ## Citation
 

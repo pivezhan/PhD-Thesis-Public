@@ -32,7 +32,7 @@ This repository contains the compiled PDF of my PhD dissertation on data-efficie
 ## Contact
 
 - **Website:** [pivezhan.github.io](https://pivezhan.github.io)
-- **Email:** pivezhandi@utep.edu
+- **Email:** pivezhandi@wayne.edu
 
 ## License
 

@@ -1,7 +1,7 @@
 # PhD Thesis: Data-Efficient AI-Guided Energy- and Thermal-Aware Scheduling on Heterogeneous Multicore Systems
 
 **Author:** Mohammad Pivezhandi
-**Institution:** University of Texas at El Paso (UTEP)
+**Institution:** Wayne State University
 **Defense Date:** December 18, 2025
 
 ## Overview
